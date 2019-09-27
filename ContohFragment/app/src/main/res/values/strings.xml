@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ContohFragment</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hello_home_fragment">Ini adalah Halamam Home Fragment</string>
+    <string name="to_category_fragment">Ke Fragment Category</string>
+    <string name="this_category">Ini adalah Fragment Category</string>
+    <string name="to_category_lifestyle">Ke Fragment Lifestyle</string>
+    <string name="category_name">Nama Kategori</string>
+    <string name="category_description">Deskripsi Kategory</string>
+    <string name="to_profile">Ke Profile</string>
+    <string name="to_dialog">Tampilkan Dialog</string>
+    <string name="question_coach">Pilih Pelatih Favorit Kamu</string>
+    <string name="sir_alex_fengurson">Sir Alex Fengurson</string>
+    <string name="jose_mouriho">Jose Mouriho</string>
+    <string name="louis_van_gall">Louis Van Gall</string>
+    <string name="david_moyes">David Moyes</string>
+    <string name="close">Close</string>
+    <string name="choose">Choose</string>
+</resources>
