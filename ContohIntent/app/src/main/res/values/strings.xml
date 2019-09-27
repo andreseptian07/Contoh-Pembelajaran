@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Contoh Intent</string>
+    <string name="move_activity">Pindah Activity</string>
+    <string name="text_move_activity">Ini adalah Move Activity</string>
+    <string name="text_move_activity_with_data">Pindah Activity Dengan Data</string>
+    <string name="data_received">Ini Data Yang Di Terima</string>
+    <string name="move_activity_with_object">Pindah Activity Dengan Object</string>
+    <string name="object_received">Objek Yang Di Terima</string>
+</resources>
