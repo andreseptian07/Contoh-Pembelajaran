@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SOAL UTS</string>
+    <string name="persegi_panjang_detail"> (dalam bahasa Inggris: rectangle) adalah bangun datar dua dimensi yang
+        dibentuk oleh dua pasang rusuk yang masing-masing sama panjang dan sejajar dengan pasangannya,
+        dan memiliki empat buah sudut yang kesemuanya adalah sudut siku-siku. \n \n
+        Rusuk terpanjang disebut sebagai panjang dan rusuk terpendek disebut sebagai lebar.
+    </string>
+</resources>
